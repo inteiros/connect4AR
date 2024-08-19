@@ -5,7 +5,6 @@
 **Connect4 AR** is an (unfinished) augmented reality version of the classic Connect 4 game, developed in Unity. The game allows players to interact with a Connect 4 board in AR, using their device's camera to detect a target image and generate the board in 3D. Players alternate between red and blue pieces, trying to align four pieces in a row, whether horizontally, vertically, or diagonally.
 
 <img src="./demo/gif2.gif" alt="GIF 2" width="400"/>
-<img src="./demo/gif1.gif" alt="GIF 1" width="400"/>
 
 The board is rendered by detecting and tracking a real-world image.
 
